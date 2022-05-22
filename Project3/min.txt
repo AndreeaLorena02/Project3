@@ -1,0 +1,14 @@
+Distanta minima este de 1 km intre statiile:
+
+Craiova si Bordei hc
+Oradea Est si Oradea Est Triaj h
+Radaia h si Mera
+Maneciu si Gheaba 2
+Maneciu Pamanteni hc si Izvoarele hc
+Faget Teleajen si Magurele Prahova N. hc
+Vatra Dornei si Vatra Dornei Bai h
+Livadia hc si Ponor hc
+Bacia Hm si Bacia hc
+Bucuresti Basarab si Bucuresti Basarab h
+Bucuresti Basarab h si Carpati h
+Radauti Gara Mica h si Radauti
